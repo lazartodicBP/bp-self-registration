@@ -1,4 +1,4 @@
-# BP Self Registration Monorepo
+# BP Self Registration
 
 This repository contains multiple packages managed with npm workspaces.
 
