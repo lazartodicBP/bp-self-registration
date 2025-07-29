@@ -1,0 +1,9 @@
+{
+  "name": "self-reg-app-template",
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "hygen": "^6.2.9",
+    "typescript": "^5.1.6"
+  }
+}

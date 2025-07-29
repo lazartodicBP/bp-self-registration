@@ -1,0 +1,14 @@
+{
+  "name": "bp-self-registration",
+  "private": true,
+  "workspaces": [
+    "admin-panel",
+    "self-reg-app-template",
+    "self-reg-app"
+  ],
+  "scripts": {
+    "dev:admin": "npm run dev --workspace=admin-panel",
+    "dev:app": "npm run dev --workspace=self-reg-app",
+    "scaffold": "npm --workspace=self-reg-app-template exec hygen self-reg-app new"
+  }
+}
