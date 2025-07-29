@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./admin-panel" },
+    { "path": "./self-reg-app-template" },
+    { "path": "./self-reg-app" }
+  ]
+}

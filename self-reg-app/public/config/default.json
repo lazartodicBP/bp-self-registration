@@ -1,0 +1,18 @@
+{
+  "branding": {
+    "clientName": "Example Corp"
+  },
+  "apiBase": "https://api.example.com",
+  "productTypes": [
+    {
+      "id": "metered",
+      "name": "Metered",
+      "description": "Usage based product"
+    },
+    {
+      "id": "recurring",
+      "name": "Recurring",
+      "description": "Subscription product"
+    }
+  ]
+}
